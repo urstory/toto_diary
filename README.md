@@ -50,4 +50,4 @@
 
 ## 동작화면
 
-<img src="./즐거운일기.gif" width="600">
+<img src="./즐거운일기.gif" width="400">
